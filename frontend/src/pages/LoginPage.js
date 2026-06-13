@@ -38,10 +38,10 @@ export default function LoginPage() {
             fontSize:32, marginBottom:16, boxShadow:"0 8px 32px rgba(99,102,241,0.4)"
           }}>🧠</div>
           <h1 style={{ fontFamily:"var(--font-display)", fontSize:28, fontWeight:700, color:"var(--text)" }}>
-            LearnAI
+            AK-AI
           </h1>
           <p style={{ color:"var(--text-muted)", marginTop:6, fontSize:14 }}>
-            Your AI-powered learning companion
+            Your smart study buddy
           </p>
         </div>
 
@@ -94,7 +94,7 @@ export default function LoginPage() {
           <p style={{ textAlign:"center", marginTop:20, fontSize:13, color:"var(--text-muted)" }}>
             No account?{" "}
             <Link to="/register" style={{ color:"var(--primary-light)", textDecoration:"none", fontWeight:500 }}>
-              Create one free
+              Create new account
             </Link>
           </p>
         </div>

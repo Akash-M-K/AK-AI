@@ -327,7 +327,7 @@ export default function ChatPage() {
                 📖 {currentTopic}
               </span>
             ) : (
-              <span style={{ fontSize:13, color:"var(--text-muted)" }}>Ask anything to learn</span>
+              <span style={{ fontSize:13, color:"var(--text-muted)" }}>Inquire to discover</span>
             )}
           </div>
           <button onClick={newChat} className="btn btn-ghost btn-sm">New Chat</button>
@@ -339,7 +339,7 @@ export default function ChatPage() {
             <div style={{ textAlign:"center", paddingTop:32 }}>
               <div style={{ fontSize:48, marginBottom:16 }}>🧠</div>
               <h2 style={{ fontFamily:"var(--font-display)", fontSize:22, marginBottom:8 }}>
-                Learn Anything
+                Absorb new knowledge
               </h2>
               <p style={{ color:"var(--text-muted)", fontSize:14, marginBottom:28 }}>
                 Ask a question, upload an image, or pick a topic below

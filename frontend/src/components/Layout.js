@@ -25,7 +25,7 @@ export default function Layout() {
             display:"flex", alignItems:"center", justifyContent:"center", fontSize:16
           }}>🧠</div>
           <span style={{ fontFamily:"var(--font-display)", fontWeight:700, fontSize:17, color:"var(--text)" }}>
-            LearnAI
+            AK-AI
           </span>
         </div>
         <div style={{ display:"flex", alignItems:"center", gap:8 }}>

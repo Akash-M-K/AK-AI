@@ -39,10 +39,10 @@ export default function RegisterPage() {
             fontSize:28, marginBottom:12, boxShadow:"0 8px 32px rgba(99,102,241,0.4)"
           }}>🧠</div>
           <h1 style={{ fontFamily:"var(--font-display)", fontSize:24, fontWeight:700 }}>
-            Join LearnAI
+            Enroll in AK-AI
           </h1>
           <p style={{ color:"var(--text-muted)", marginTop:4, fontSize:13 }}>
-            Start learning anything with AI
+            Accelerate your learning curve with AI
           </p>
         </div>
 
